@@ -1,9 +1,9 @@
 # ProyRoboticaBasica
 Proyecto de robotica basica Universidad Rafael Landivar Programa Educación Continua
 
-#include <AFMotor.h> //import your motor shield library
-#define trigPin 7 // define the pins of your sensor
-#define echoPin 6
+//#include <AFMotor.h> //import your motor shield library
+//#define trigPin 7 // define the pins of your sensor
+//#define echoPin 6
 
 AF_DCMotor motor1(1,MOTOR12_64KHZ); // set up motors.
 AF_DCMotor motor2(2, MOTOR12_8KHZ);
