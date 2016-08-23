@@ -8,7 +8,7 @@ Proyecto de robotica basica Universidad Rafael Landivar Programa Educación Cont
 * [Arduino Uno](https://www.arduino.cc/en/Main/ArduinoBoardUno)
 * 1 o más leds
 * Sensor UltraSonico HC-SR04
-* [Motor Shield](https://www.arduino.cc/en/main/software)
+* [Motor Shield](http://www.prometec.net/wp-content/uploads/2015/03/adafruit-motorshield2.jpg)
 * Cables Dupont
 * Batería 9V
 * Servo Motor 180 grados
