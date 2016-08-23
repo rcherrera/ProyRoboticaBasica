@@ -17,5 +17,5 @@ Proyecto de robotica basica Universidad Rafael Landivar Programa Educación Cont
 ##Circuito Básico
  El circuito básico se detalla en la siguiente imagen, me tope con el problema de que al conectar el Echo al pin 7 del Arduino, me descompensaba el voltaje en los motores, y se solucionó el problema pasando el Echo al pin 13 del Arduino.
  
- ![Circuito Basico](https://github.com/rcherrera/ProyRoboticaBasica/circuito.jpg?raw=true%20%22Optional%20Title%22=400x 
+ ![Alt text](/circuito.jpg?raw=true "Optional Title"=400x)
 
