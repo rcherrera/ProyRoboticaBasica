@@ -14,4 +14,8 @@ Proyecto de robotica basica Universidad Rafael Landivar Programa Educación Cont
 * Servo Motor 180 grados
 * [ultrasonic sensor HC-SR04.](http://www.ebay.com/itm/5pcs-Ultrasonic-Module-HC-SR04-Distance-Measuring-Transducer-Sensor-for-Arduino-/381374789471?hash=item58cbb5775f:g:Rd0AAOxySoJTWL-h)
 
-ProyRoboticaBasica/circuito.jpg
+##Circuito Básico
+ El circuito básico se detalla en la siguiente imagen, me tope con el problema de que al conectar el Echo al pin 7 del Arduino, me descompensaba el voltaje en los motores, y se solucionó el problema pasando el Echo al pin 13 del Arduino.
+ 
+![Alt text](/images/ProyRoboticaBasica/circuito.jpg?raw=true "Optional Title"=400x)
+
