@@ -12,3 +12,4 @@ Proyecto de robotica basica Universidad Rafael Landivar Programa Educación Cont
 * Cables Dupont
 * Batería 9V
 * Servo Motor 180 grados
+* * [ultrasonic sensor HC-SR04.](http://www.ebay.com/itm/5pcs-Ultrasonic-Module-HC-SR04-Distance-Measuring-Transducer-Sensor-for-Arduino-/381374789471?hash=item58cbb5775f:g:Rd0AAOxySoJTWL-h)
