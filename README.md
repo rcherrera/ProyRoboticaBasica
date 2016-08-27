@@ -19,5 +19,7 @@ Proyecto de robotica basica Universidad Rafael Landivar Programa Educación Cont
  
  ![Alt text](/circuito.jpg?raw=true "Optional Title"=400x)
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/QVIWWzuXk-c" frameborder="0" allowfullscreen></iframe>
+ ##Video De Funcionamiento
+ Video de funcionamiento del proyecto.
 
+* [Video Demostrativo](https://www.youtube.com/embed/QVIWWzuXk-c)
